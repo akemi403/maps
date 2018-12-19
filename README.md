@@ -9,6 +9,11 @@ dllnya..
 saya sengaja simpan api key google mapsnya..
 biar bisa kalian kembangkan..
 
-#OCE
+# How To Use..
+1. git clone https://github.com/akemi403/maps.git
+2. cd maps
+3. python3 maps.py
+
+# Thanks
 Mohon Maaf Bila ada kesalahan dalam source codenya..
 saya juga masih belajar ini..
